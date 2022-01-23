@@ -13,6 +13,7 @@
 		7BC43C9027737EAC00658E02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BC43C8E27737EAC00658E02 /* Main.storyboard */; };
 		7BC43C9227737EB100658E02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BC43C9127737EB100658E02 /* Assets.xcassets */; };
 		7BC43C9527737EB100658E02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BC43C9327737EB100658E02 /* LaunchScreen.storyboard */; };
+		7BC43C9D27737EDF00658E02 /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC43C9C27737EDF00658E02 /* Animations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7BC43C9127737EB100658E02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BC43C9427737EB100658E02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BC43C9627737EB100658E02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BC43C9C27737EDF00658E02 /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7BC43C8827737EAC00658E02 /* AppDelegate.swift */,
 				7BC43C8A27737EAC00658E02 /* SceneDelegate.swift */,
 				7BC43C8C27737EAC00658E02 /* ViewController.swift */,
+				7BC43C9C27737EDF00658E02 /* Animations.swift */,
 				7BC43C8E27737EAC00658E02 /* Main.storyboard */,
 				7BC43C9127737EB100658E02 /* Assets.xcassets */,
 				7BC43C9327737EB100658E02 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				7BC43C8D27737EAC00658E02 /* ViewController.swift in Sources */,
 				7BC43C8927737EAC00658E02 /* AppDelegate.swift in Sources */,
+				7BC43C9D27737EDF00658E02 /* Animations.swift in Sources */,
 				7BC43C8B27737EAC00658E02 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
